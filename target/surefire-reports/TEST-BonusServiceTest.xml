@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Foundation\jdk-11.0.12.7-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\D6A4~1\AppData\Local\Temp\surefire11550942516633189747\surefirebooter10255290494214174167.jar C:\Users\Гирфатовы\AppData\Local\Temp\surefire11550942516633189747 2021-10-15T12-21-13_062-jvmRun1 surefire17402965752900762458tmp surefire_015720981097450499940tmp"/>
+    <property name="sun.java.command" value="C:\Users\D6A4~1\AppData\Local\Temp\surefire10461898888477952572\surefirebooter18355915719156096932.jar C:\Users\Гирфатовы\AppData\Local\Temp\surefire10461898888477952572 2021-10-15T14-42-03_770-jvmRun1 surefire15592299601922363482tmp surefire_012206293024127521695tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Гирфатовы\IdeaProjects\Java-2.3.1\target\test-classes;C:\Users\Гирфатовы\IdeaProjects\Java-2.3.1\target\classes;C:\Users\Гирфатовы\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.1\junit-jupiter-5.8.1.jar;C:\Users\Гирфатовы\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;C:\Users\Гирфатовы\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Гирфатовы\.m2\repository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;C:\Users\Гирфатовы\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Гирфатовы\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.1\junit-jupiter-params-5.8.1.jar;C:\Users\Гирфатовы\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.1\junit-jupiter-engine-5.8.1.jar;C:\Users\Гирфатовы\.m2\repository\org\junit\platform\junit-platform-engine\1.8.1\junit-platform-engine-1.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\D6A4~1\AppData\Local\Temp\surefire11550942516633189747\surefirebooter10255290494214174167.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\D6A4~1\AppData\Local\Temp\surefire10461898888477952572\surefirebooter18355915719156096932.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.12+7"/>
@@ -61,6 +61,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldCalculateForUnregisteredAndUnderLimit" classname="BonusServiceTest" time="0.016"/>
+  <testcase name="shouldCalculateForUnregisteredAndUnderLimit" classname="BonusServiceTest" time="0.032"/>
   <testcase name="shouldCalculateForUnregisteredAndOverLimit" classname="BonusServiceTest" time="0"/>
 </testsuite>

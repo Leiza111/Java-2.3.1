@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class BonusServiceTest {
 
     @Test
-    void shouldCalculateForUnregisteredAndUnderLimit() { //не зарегистрирован, сумма превышает лимита
+    void shouldCalculateForUnregisteredAndOverLimit() { //не зарегистрирован, сумма превышает лимита
         BonusService service = new BonusService();
 
         // подготавливаем данные:
@@ -21,7 +21,7 @@ class BonusServiceTest {
     }
 
     @Test
-    void shouldCalculateForUnregisteredAndOverLimit() { ////не зарегистрирован, сумма меньше лимита
+    void shouldCalculateForUnregisteredAndUnderLimit() { ////не зарегистрирован, сумма меньше лимита
         BonusService service = new BonusService();
 
         // подготавливаем данные:
